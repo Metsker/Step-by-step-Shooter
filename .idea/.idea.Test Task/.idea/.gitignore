@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Test Task.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Lev\Desktop\Unity\Test Task\.idea\.idea.Test Task\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
